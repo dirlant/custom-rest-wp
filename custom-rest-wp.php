@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name:       Theme Customisations
+ * Plugin Name:       Custom Rest
  * Description:       A handy little plugin to contain your theme customisation snippets.
- * Plugin URI:        http://github.com/woothemes/theme-customisations
+ * Plugin URI:        http://github.com/
  * Version:           1.0.0
- * Author:            WooThemes
- * Author URI:        https://www.woocommerce.com/
+ * Author:            Key Systems
+ * Author URI:        https://www.paginaswebks.com/
  * Requires at least: 3.0.0
  * Tested up to:      4.4.2
  *
